@@ -15,3 +15,4 @@ If your smartphone is not Qi charging capable, no worry.
 
 Here you are for less than 10€ !!!
 
+Article in french on my [blog](https://www.madeinfck.com/charger-son-smartphone-sans-cable/).
