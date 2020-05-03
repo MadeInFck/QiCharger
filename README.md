@@ -5,6 +5,8 @@ Should you want to stop plugging in your charging cable every day, Qi charger is
 
 * 3D print the .stl files
 * Get a [wireless charger module](https://www.banggood.com/5V-Qi-Wireless-Charger-PCBA-Circuit-Board-W-Coils-Creative-Module-Charging-DIY-p-1632716.html?rmmds=myorder&cur_warehouse=CN)
+* Glue the module on the bottom plate you just printed
+* Screw the top plate on the bottom part
 
 If your smartphone is not Qi charging capable, no worry.
 
